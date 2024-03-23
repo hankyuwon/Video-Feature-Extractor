@@ -9,5 +9,5 @@ pip install librosa --user
 
 ### Usage
 ```
-python main.py --filepath [Directory path where the videos are located] --frame [Frame rate] --height[frame height] --width [frame width]
+python main.py --filepath [Directory path where the videos are located] --frame [Frame rate] --height[height] --width [width]
 ```
